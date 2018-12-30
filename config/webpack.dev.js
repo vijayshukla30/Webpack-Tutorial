@@ -12,5 +12,20 @@ module.exports = {
   },
   devServer: {
     contentBase: "dist"  //Content will be loded from
+  },
+  module: {
+    rules: [
+      {
+        test: /\.css$/,  //regular expression
+        use: [
+          { //loader will be in reverse order
+            loader: "style-loader"
+          },
+          {
+            loader: "css-loader"
+          }
+      ]
+      }
+    ]
   }
 }
