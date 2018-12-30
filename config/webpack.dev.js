@@ -24,9 +24,26 @@ module.exports = {
           },
           {
             loader: "css-loader"
-          }
+          },
       ]
-      }
+    },
+    {
+      test: /\.html$/,
+      use: [
+        {
+          loader: "file-loader",
+          options: {
+            name: "[name].html"
+          }
+        },
+        {
+          loader: "extract-loader"
+        },
+        {
+          loader: "html-loader"
+        }
+      ]
+    }
     ]
   }
 }
