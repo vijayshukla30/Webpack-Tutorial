@@ -4,7 +4,7 @@
   "description": "Dummy Application to learn webpack",
   "main": "index.js",
   "scripts": {
-    "start:dev": "webpack-dev-server --mode development --inline 'false'",
+    "start:dev": "webpack-dev-server --config=config/webpack.dev.js --inline 'false'",
     "build": "webpack"
   },
   "author": "Vijay Shukla",

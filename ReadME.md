@@ -13,4 +13,5 @@
 4. d5ca3f32f386aa59061efd91e9e70b087b2e8680 : Webpack-dev-server in production
 5. 7b20ba37cb7f17ce8f36bbd52b309353dcafba5a : Webpack-dev-server in development
 6. aa7d3abbc7eaf0775f1f170366ccf9b6de826f00 : Inline False option in webpack-dev-server
-7.
+7. 46569ccf7fbef044b10dcd53b27a0c6badc6bf1c : Webpack.dev.js
+8. 
