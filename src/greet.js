@@ -1,5 +1,5 @@
 const greet = (name) =>{
-  return ` Hello ${name}!`;
+  return ` Good Morning ${name}!`;
 }
 
 export default greet;
