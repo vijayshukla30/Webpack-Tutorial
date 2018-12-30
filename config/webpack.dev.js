@@ -11,7 +11,8 @@ module.exports = {
     publicPath: "/" //path from js file will be load
   },
   devServer: {
-    contentBase: "dist"  //Content will be loded from
+    contentBase: "dist" , //Content will be loded from,
+    overlay: true //display error in browser itself
   },
   module: {
     rules: [

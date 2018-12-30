@@ -15,3 +15,4 @@
 6. aa7d3abbc7eaf0775f1f170366ccf9b6de826f00 : Inline False option in webpack-dev-server
 7. 46569ccf7fbef044b10dcd53b27a0c6badc6bf1c : Webpack.dev.js
 8. 72a0d718edcc74b28669889cb06908d7b49b171f : weback config command in package.json
+9. 5d6e4f91a95ca9810aea8300f97740d10c0bc1bb : Add Stylesheet loader
