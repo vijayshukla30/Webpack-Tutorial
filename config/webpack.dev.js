@@ -17,6 +17,15 @@ module.exports = {
     module: {
         rules: [
             {
+                test: /\.js$/,
+                use: [
+                    {
+                        loader: "babel-loader"
+                    }
+                ],
+                exclude: /node_modules/
+            },
+            {
                 test: /\.css$/,  //regular expression
                 use: [
                     { //loader will be in reverse order

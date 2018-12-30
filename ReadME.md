@@ -18,4 +18,4 @@
 9. 5d6e4f91a95ca9810aea8300f97740d10c0bc1bb : Add Stylesheet loader
 10. beb130e5cbe17a4d3e2cf8b7f1ebc9fe813c1aef : Error Showing on the browser
 11. 207491999eef82108e0e41f32f58188b395959c1 : HTML, File, Extract Loader
-12. 
+12. 5a8b6eee9aeeb66844015786944b4df6aaead4fe : Image Loading
