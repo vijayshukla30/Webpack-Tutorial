@@ -4,12 +4,13 @@
   "description": "Dummy Application to learn webpack",
   "main": "index.js",
   "scripts": {
-    "start": "webpack --mode development"
+    "start:dev": "webpack-dev-server"
   },
   "author": "Vijay Shukla",
-  "license": "MIT",
+  "license": "ISC",
   "devDependencies": {
     "webpack": "^4.28.3",
-    "webpack-cli": "^3.1.2"
+    "webpack-cli": "^3.1.2",
+    "webpack-dev-server": "^3.1.14"
   }
 }
