@@ -4,7 +4,7 @@
   "description": "Dummy Application to learn webpack",
   "main": "index.js",
   "scripts": {
-    "start": "webpack"
+    "start": "webpack --mode development"
   },
   "author": "Vijay Shukla",
   "license": "MIT",

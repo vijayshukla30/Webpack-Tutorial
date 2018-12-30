@@ -7,5 +7,6 @@
 
 
 
-1. 2154d92b08f82215ab354f1306ee38645864c204
-2. 
+1. 2154d92b08f82215ab354f1306ee38645864c204 : Basic Project with two script files
+2. 9b0e3655bb40a165c23379bbcbf0f647e1137d8e : Webpack in production mode
+3. 
