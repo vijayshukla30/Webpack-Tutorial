@@ -17,3 +17,5 @@
 8. 72a0d718edcc74b28669889cb06908d7b49b171f : weback config command in package.json
 9. 5d6e4f91a95ca9810aea8300f97740d10c0bc1bb : Add Stylesheet loader
 10. beb130e5cbe17a4d3e2cf8b7f1ebc9fe813c1aef : Error Showing on the browser
+11. 207491999eef82108e0e41f32f58188b395959c1 : HTML, File, Extract Loader
+12. 
