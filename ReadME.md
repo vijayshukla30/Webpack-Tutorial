@@ -3,4 +3,9 @@
 3. npm install webpack webpack-dev webpack-cli –save-dev (add webpack dependency in dev dependency)
 4. Create two script files func.js and variables.js
 5. webpack ./scripts/func.js –mode development
-6. 
+6.
+
+
+
+1. 2154d92b08f82215ab354f1306ee38645864c204
+2. 
